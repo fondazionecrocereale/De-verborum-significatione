@@ -1,0 +1,27 @@
+[
+  {
+    "word": "Nam",
+    "definition": "causalis conjunctio, rationem reddit",
+    "example": "ut cum dicimus: non venit, nam aeger erat"
+  },
+  {
+    "word": "Itaque",
+    "definition": "consequentiam significat et conclusionem",
+    "example": "ut cum dicimus: pluit, itaque viae factae sunt lutosae"
+  },
+  {
+    "word": "Quia",
+    "definition": "causalis conjunctio, causam exponit",
+    "example": "ut cum dicimus: laetus sum, quia vicimus"
+  },
+  {
+    "word": "Cum",
+    "definition": "temporis et causae significator",
+    "example": "ut cum dicimus: cum Caesar venit, omnes tacuerunt"
+  },
+  {
+    "word": "Si",
+    "definition": "conditionalis conjunctio, possibilitatem significat",
+    "example": "ut cum dicimus: si veneris, te excipiam"
+  }
+]

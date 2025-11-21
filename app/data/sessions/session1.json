@@ -1,0 +1,32 @@
+[
+    {
+    "word": "Augustus",
+    "definition": "Locus sanctus ab avium gestu, id est quia ab avibus significatus est, dic dictus; sive ab avium gustatu, quia aves pastae id ratum fecerunt",
+    "example": ""
+  },
+  {
+    "word": "At",
+    "definition": "differentiam rerum significat",
+    "example": "ut cum dicimus: Scipio est bellator, at Marcus Cato orator"
+  },
+  {
+    "word": "Ac",
+    "definition": " conjunction copulativa, quae significat connexionem et continuationem",
+    "example": "ut cum dicimus: venit ac statim discessit"
+  },
+  {
+    "word": "Aut",
+    "definition": "disjunctionem significat, unam rem alteri oppositam",
+    "example": "ut cum dicimus: aut vincamus aut moriamur"
+  },
+  {
+    "word": "Et",
+    "definition": "copulat res inter se coniunctas",
+    "example": "ut cum dicimus: pater et filius venerunt"
+  },
+  {
+    "word": "Sed",
+    "definition": "adversativam conjunctionem, quae aliquid corrigit vel mutat",
+    "example": "ut cum dicimus: non est malus, sed bonus est"
+  }
+]
